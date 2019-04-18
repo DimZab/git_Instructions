@@ -1,0 +1,8 @@
+// 1. Clone
+// 2. Commit
+// 3. Push
+// 4. Pull
+
+
+print ("Hello, World!")
+print ()
