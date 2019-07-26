@@ -1,7 +1,8 @@
-// 1. Clone
-// 2. Commit
-// 3. Push
-// 4. Pull
+// 1. Clone 
+// 2. Commit - save changes in local repo
+// 3. Push - send changes to removed repo
+// 4. Pull - get repo from removed server 
+// and apply all new changes for current local repo
 
 
 print ("Hello, World!")
